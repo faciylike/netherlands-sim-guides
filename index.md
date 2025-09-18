@@ -61,3 +61,10 @@ layout: default
 　　**个人偏爱eSIM的理由**：不用找针取卡槽！尤其冬天戴手套时，换卡堪比解鲁班锁…不过话说回来，备用机用户建议双持：物理SIM保底+eSIM灵活切换。
 
 　　**最后的小提醒**：别在红灯区用公共WiFi传银行卡照片！实在需要联网，试试✈ [@esim1088](https://t.me/s/esim1088) 的本地加密套餐，他们2025年新增了荷兰IP专属服务器。现在出门前搞定这些，你就能像本地人一样，边骑车边视频通话了——虽然警察看到会罚款哦！（别问我是怎么知道的）
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Netherlands eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/netherlands-data-plans)
